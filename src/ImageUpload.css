@@ -1,0 +1,24 @@
+.imageUpload {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  glyph-orientation-horizontal: 0deg;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.imageUpload__progress {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.imageUpload__input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin: 10px;
+}
